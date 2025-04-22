@@ -14,3 +14,5 @@ There are two types of spread options:
 
 The project will study the pricing of these options, and their connection to the properties of the underlying futures. 
 
+Data on spread options on futures is available from CME Group through the [Option Settlement Tool](https://www.cmegroup.com/tools-information/quikstrike/option-settlement.html)
+
