@@ -1,5 +1,5 @@
 # Spread-options-on-commodity-futures
-A tutorial from CME Group on [spread options on futures](https://www.cmegroup.com/education/courses/option-strategies/option-calendar-spreads.html) and their practical use.
+A tutorial from CME Group on [calendar spread options on futures](https://www.cmegroup.com/education/courses/option-strategies/option-calendar-spreads.html) and their practical use.
 These options are traded on many commodity futures: 
 
 * [crude oil](https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html)
